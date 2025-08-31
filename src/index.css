@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Monda:wght@400;700&family=Proza+Libre:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Space+Grotesk:wght@300..700&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --font-main : "Monda", sans-serif;
+}
