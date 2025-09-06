@@ -1,5 +1,6 @@
 import { cn } from "../../lib/utils";
 import { Landing } from "../Landing";
+// import { Skills } from "./Skiils";
 // import { FlipWords } from "./Flip-words";
 
 
